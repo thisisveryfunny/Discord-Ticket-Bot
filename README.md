@@ -8,4 +8,4 @@ run `node deploy-container.js` to create a container message with a button to al
 run `node index.js`
 
 # Made for Slan Revolution Discord server
-[https://discord.gg/GD4DgQ5NAb]
+https://discord.gg/GD4DgQ5NAb
