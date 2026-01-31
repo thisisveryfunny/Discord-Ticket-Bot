@@ -1,0 +1,7 @@
+{
+	"token": "BOT-TOKEN",
+    "clientId": "BOT-ID",
+    "guildId": "SERVER-ID",
+    "roleOrganisateurId": "ADMIN-ROLE-ID",
+    "categorieTicketsId": "CATEGORIE-TICKET-ID"
+}
